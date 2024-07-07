@@ -1,0 +1,5 @@
+DBMS
+Operating System
+Computer Networks
+Compiler Desgin
+Theory of computation
