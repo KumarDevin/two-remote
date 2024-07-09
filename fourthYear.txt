@@ -7,8 +7,18 @@ participate in Hackathon
 I want a 18+ lpa package atleast. Now if i want this package then i should be worthy.
 I get to know shortcut to switch to terminal
 
+
 project list :
 offline trek map viewer
 candidate selector
 airbnb clone
 realtime chess
+
+friends name :
+bharat
+devanshu
+devashish
+pulkit
+rudraksh
+sanjay
+kapil
