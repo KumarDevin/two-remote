@@ -3,3 +3,6 @@ get job
 do DSA
 Learn MERN
 participate in Hackathon
+
+I want a 18+ lpa package atleast. Now if i want this package then i should be worthy.
+I get to know shortcut to switch to terminal
