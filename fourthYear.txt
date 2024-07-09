@@ -22,3 +22,9 @@ pulkit
 rudraksh
 sanjay
 kapil
+
+favourite fruits:
+mango 
+banana
+apple
+papaya
