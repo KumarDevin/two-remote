@@ -28,3 +28,15 @@ mango
 banana
 apple
 papaya
+
+veggies :
+potato
+onion
+tomato
+garlic
+
+sports: 
+cricket
+football
+wrestling
+javeliean throw
