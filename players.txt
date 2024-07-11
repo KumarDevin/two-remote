@@ -2,3 +2,8 @@ cricket players:
 1. MS Dhoni
 2. Virat Kohli
 3. Rohit Sharma
+
+football players:
+1. Cristiano Ronaldo
+2. Lionel Messi
+3. kylian Mbappe
